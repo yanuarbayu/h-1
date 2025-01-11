@@ -112,7 +112,8 @@
     cursor: pointer;
 }
 .login-button:hover {
-    background-color: var(--second-color);
+    background-color: #007BFF;
+    color: #fff;
 }
 .social-login {
     margin: 20px 0;
